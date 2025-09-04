@@ -7,7 +7,8 @@ This project classifies tweets as **Negative, Neutral, or Positive** using Machi
 - ~75K tweets
 - After cleaning: ~57K tweets
 - Columns: `id`, `entity`, `sentiment`, `tweet`
-Dataset: [Twitter Entity Sentiment Analysis](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)
+
+-Dataset: [Twitter Entity Sentiment Analysis](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)
 
 # ⚙️ Workflow
 1. Clean and preprocess tweets (remove links, mentions, hashtags, punctuation).

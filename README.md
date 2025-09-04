@@ -21,8 +21,7 @@ This project classifies tweets as **Negative, Neutral, or Positive** using Machi
   - Negative: **0.82**  
   - Neutral: **0.76**  
   - Positive: **0.79**
-sentiment_distribution.png
-
+[Sentiment distribution](./sentiment_distribution.png)
 # 🔍 Example
 tweet = "I love programming! #coding"
 prediction = model.predict(vectorizer.transform([tweet]))
